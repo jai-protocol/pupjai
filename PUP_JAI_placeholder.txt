@@ -1,0 +1,8 @@
+PUP_JAI.exe placeholder
+
+This is a placeholder file.
+
+In the full release version, this file will be replaced by a working executable:
+PUP_JAI.exe — a local tool for interacting with the JAI system and viewing PUP content offline.
+
+For now, please use the markdown and HTML materials.
